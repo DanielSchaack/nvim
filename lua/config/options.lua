@@ -20,3 +20,6 @@ vim.opt.hlsearch = false
 vim.opt.incsearch = true
 vim.opt.laststatus = 0 -- disable status bar
 vim.g.snacks_animate = false
+vim.g.autoformat = false
+
+vim.g.lazyvim_python_lsp = "ty"
